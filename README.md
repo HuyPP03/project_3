@@ -10,7 +10,7 @@
 - IPFS (InterPlanetary File System) là một giao thức và mạng lưu trữ phi tập trung được thiết kế để lưu trữ và chia sẻ dữ liệu theo cách phi tập trung, thay vì sử dụng các máy chủ tập trung truyền thống.
 - IPFS daemon là một chương trình nền (background process) của IPFS, giúp máy của bạn trở thành một nút trong mạng IPFS.
 - Sử dung: ipfs deamon để kết nối mạng ipfs sau đó tạo các file bằng cách ipfs add <tên file> => tạo ra id.
-- Tên uri: http://127.0.0.1:8080/ipfs/<id>
+- Tên uri: http://127.0.0.1:8080/ipfs/{id}
 # Front-end (react)
 - Chạy lệnh để cài đặt các thư viện đã có: yarn.
 - Thêm file .env dựa vào .env.example.
