@@ -2,6 +2,7 @@
 import { useEffect, useState } from "react";
 import { useEthers } from "../context/EthersProvider";
 import toast from "react-hot-toast";
+import CreateAccount from "./CreateAccount";
 
 const Province = () => {
   const { contract, provider } = useEthers();
@@ -169,6 +170,9 @@ const Province = () => {
             <p className="text-gray-500">No Districts available.</p>
           )}
         </ul>
+      </div>
+      <div className="w-full max-w-md">
+        <CreateAccount />
       </div>
     </div>
   );
