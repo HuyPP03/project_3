@@ -1,0 +1,18 @@
+{
+  "vehicle_type": "motocycle",
+  "number": "987654321",
+  "owner_fullname": "Le Thi B",
+  "address": "456 Nguyen Trai, Quan 5, Ho Chi Minh",
+  "brand": "Honda",
+  "type": "Scooter",
+  "capacity": "125cc",
+  "engine_No": "EN54321",
+  "chassis_No": "CH09876",
+  "model_code": null,
+  "color": "Red",
+  "rate_power": "10hp",
+  "number_plate": "59C2-456.78",
+  "date_of_expiry": "2028-12-31",
+  "created_date": "2024-12-28",
+  "signer": "Pham C"
+}
