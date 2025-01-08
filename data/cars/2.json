@@ -1,0 +1,23 @@
+{
+  "vehicle_type": "car",
+  "number": "987654321",
+  "brand": "Honda",
+  "type": "SUV",
+  "capacity": "2000cc",
+  "engine_No": "EN98765",
+  "chassis_No": "CH54321",
+  "model_code": "SUV456",
+  "color": "White",
+  "rate_power": "170hp",
+  "number_plate": "51B-543.21",
+  "date_of_expiry": "2031-06-15",
+  "created_date": "2024-11-15",
+  "signer": "Nguyen C",
+  "length": 4.9,
+  "width": 1.9,
+  "height": 1.7,
+  "sit": 7,
+  "stand": null,
+  "lie": null,
+  "goods": null
+}

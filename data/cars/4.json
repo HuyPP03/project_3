@@ -1,0 +1,23 @@
+{
+  "vehicle_type": "car",
+  "number": "556677889",
+  "brand": "Hyundai",
+  "type": "Crossover",
+  "capacity": "2200cc",
+  "engine_No": "EN55667",
+  "chassis_No": "CH77889",
+  "model_code": "CR123",
+  "color": "Blue",
+  "rate_power": "200hp",
+  "number_plate": "51D-556.77",
+  "date_of_expiry": "2033-08-25",
+  "created_date": "2024-09-05",
+  "signer": "Nguyen E",
+  "length": 4.7,
+  "width": 1.8,
+  "height": 1.6,
+  "sit": 5,
+  "stand": null,
+  "lie": null,
+  "goods": null
+}

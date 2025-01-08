@@ -1,0 +1,16 @@
+{
+  "vehicle_type": "motocycle",
+  "number": "321321321",
+  "brand": "Suzuki",
+  "type": "Cruiser",
+  "capacity": "175cc",
+  "engine_No": "EN78901",
+  "chassis_No": "CH56789",
+  "model_code": null,
+  "color": "Black",
+  "rate_power": "14hp",
+  "number_plate": "59E1-234.56",
+  "date_of_expiry": "2030-03-20",
+  "created_date": "2024-10-15",
+  "signer": "Nguyen E"
+}

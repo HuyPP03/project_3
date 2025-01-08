@@ -1,0 +1,16 @@
+{
+  "vehicle_type": "motocycle",
+  "number": "654654654",
+  "brand": "Piaggio",
+  "type": "Vespa",
+  "capacity": "125cc",
+  "engine_No": "EN34567",
+  "chassis_No": "CH98765",
+  "model_code": null,
+  "color": "White",
+  "rate_power": "11hp",
+  "number_plate": "59F1-987.65",
+  "date_of_expiry": "2027-12-31",
+  "created_date": "2024-09-20",
+  "signer": "Tran F"
+}

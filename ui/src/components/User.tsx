@@ -4,7 +4,8 @@ import { useEthers } from "../context/EthersProvider";
 import toast from "react-hot-toast";
 
 const User = () => {
-  const { registrationInfo, account, contract, provider } = useEthers();
+  const { registrationInfo, account, contract, provider, setRegistrationInfo } =
+    useEthers();
   const [transferAddress, setTransferAddress] = useState("");
   const [isTransferring, setIsTransferring] = useState(false);
 
@@ -22,6 +23,10 @@ const User = () => {
         duration: 2500,
         position: "top-center",
       });
+      setRegistrationInfo({
+        ...registrationInfo,
+        address: transferAddress,
+      });
     } catch (error: any) {
       console.log(error);
       toast.error(error.reason || "An error occurred", {
@@ -30,6 +35,7 @@ const User = () => {
       });
     } finally {
       setIsTransferring(false);
+      setTransferAddress("");
     }
   };
 

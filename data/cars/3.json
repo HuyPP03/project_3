@@ -1,0 +1,23 @@
+{
+  "vehicle_type": "car",
+  "number": "112233445",
+  "brand": "Mazda",
+  "type": "Hatchback",
+  "capacity": "1500cc",
+  "engine_No": "EN11223",
+  "chassis_No": "CH33445",
+  "model_code": "HB789",
+  "color": "Red",
+  "rate_power": "120hp",
+  "number_plate": "51C-112.33",
+  "date_of_expiry": "2032-03-20",
+  "created_date": "2024-10-10",
+  "signer": "Pham D",
+  "length": 4.4,
+  "width": 1.7,
+  "height": 1.4,
+  "sit": 5,
+  "stand": null,
+  "lie": null,
+  "goods": null
+}

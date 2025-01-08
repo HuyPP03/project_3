@@ -1,0 +1,16 @@
+{
+  "vehicle_type": "motocycle",
+  "number": "123123123",
+  "brand": "Yamaha",
+  "type": "Sport",
+  "capacity": "150cc",
+  "engine_No": "EN65432",
+  "chassis_No": "CH12345",
+  "model_code": null,
+  "color": "Blue",
+  "rate_power": "12hp",
+  "number_plate": "59D1-789.12",
+  "date_of_expiry": "2029-06-15",
+  "created_date": "2024-11-10",
+  "signer": "Le D"
+}

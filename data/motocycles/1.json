@@ -1,8 +1,6 @@
 {
   "vehicle_type": "motocycle",
   "number": "987654321",
-  "owner_fullname": "Le Thi B",
-  "address": "456 Nguyen Trai, Quan 5, Ho Chi Minh",
   "brand": "Honda",
   "type": "Scooter",
   "capacity": "125cc",
